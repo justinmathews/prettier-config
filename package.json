@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "Prettier configuration file",
   "main": "index.json",
-  "repository": "git@github.com:justinmathews/prettier-config.git",
+  "repository": ".git",
   "author": "Justin Mathews",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinmathews/prettier-config"
+  },
+  "homepage": "https://github.com/justinmathews/prettier-config"
 }
