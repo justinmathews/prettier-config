@@ -4,5 +4,6 @@
   "description": "Prettier configuration file",
   "main": "index.json",
   "repository": "git@github.com:justinmathews/prettier-config.git",
+  "author": "Justin Mathews",
   "license": "MIT"
 }
