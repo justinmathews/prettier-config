@@ -1,7 +1,7 @@
 {
   "name": "@justinmathews/prettier-config",
   "version": "1.0.0",
-  "description": "Prettier configuration file",
+  "description": "Prettier team configuration file",
   "main": "index.json",
   "repository": ".git",
   "author": "Justin Mathews",
